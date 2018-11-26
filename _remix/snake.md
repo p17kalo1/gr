@@ -14,4 +14,5 @@ tags:
 <script async src="//assets.codepen.io/assets/embed/ei.js"></script>
 
 Ασκηση 1: Αλλάξτε το χρώμα του φιδιού και του μήλου.
+
 Ασκηση 2: Αλλαξτε το μέγεθος του παιχνιδιού
